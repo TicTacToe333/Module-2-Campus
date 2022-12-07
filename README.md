@@ -1,36 +1,23 @@
-# Module-2-Campus
-
+# grade_assistant
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
 
-{Provide a description the web app that you wrote. Describe how to start a test server on your computer and what website to open up to see the first page of the app.}
+This program asks the user to input their test and homework grades into a gradebook. Tests are weighted at 40% of the grade, and homework is graded as 60% of the overall grade. Once all the grades are inputed, the program shows the user their final grade.
 
-{Describe your purpose for writing this software.}
+This program is a test for C++.
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running (starting the server and navigating through the web pages) and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
-
-# Web Pages
-
-{Describe each of the web pages you created and how the web app transitions between each of them.  Also describe what is dynamically created on each page.}
 
 # Development Environment
-
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used and any libraries.}
+This was developed using VSCode. The program is in C++, and uses the iostream, stdlib.h, and string libraries.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+
+* [Youtube]([http://url.link.goes.here](https://www.youtube.com/watch?v=vLnPwxZdW4Y))
+
 
 # Future Work
 
 {Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* Different types of questions
+* More aesthetic UI
