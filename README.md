@@ -13,11 +13,10 @@ This was developed using VSCode. The program is in C++, and uses the iostream, s
 # Useful Websites
 
 
-* [Youtube Tutorial]([http://url.link.goes.here](https://www.youtube.com/watch?v=vLnPwxZdW4Y))
+* [Youtube Tutorial][http://url.link.goes.here](https://www.youtube.com/watch?v=vLnPwxZdW4Y)
 
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
 * Different types of questions
 * More aesthetic UI
